@@ -2,7 +2,7 @@
   "name": "instagram-slideshow",
   "version": "1.0.0",
   "description": "a tool to get instagram hastag information to set up a slideshow",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/server.js"
   },
